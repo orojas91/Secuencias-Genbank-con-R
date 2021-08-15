@@ -1,6 +1,6 @@
 ## Modificado de Vikram B Baliga: https://www.vikram-baliga.com/blog/2016/1/23/using-r-to-download-genbank-sequences y http://www.jcsantosresearch.org/Class_2014_Spring_Comparative/pdf/week_2/Jan_13_15_2015_GenBank_part_2.pdf
 
-## Secuencias de Dendropsophus
+## Secuencias de ejemplo: Ctenophryne
 
 # llamar paquetes
 library(ape)
