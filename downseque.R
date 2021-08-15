@@ -43,7 +43,7 @@ id.coi <- na.omit(id.coi)
 
 cten.coi <- read.GenBank(id.coi$cten.COI,species.names=T)
 cten.coi.id <- paste(attr(cten.coi, "species"), id.coi$cten.Museo, sep = "_")
-write.dna(cten.coi, file ="cten.coi_temp.fasta", format = "fasta", append = FALSE, nbcol = 6, colsep = " ", colw = 10) ## BIEN BAJADO
+write.dna(cten.coi, file ="cten.coi_temp.fasta", format = "fasta", append = FALSE, nbcol = 6, colsep = " ", colw = 10)
 cten.coi.temp <- read.fasta(file = "cten.coi_temp.fasta", seqtype = "DNA", as.string = TRUE, forceDNAtolower = FALSE)
 write.fasta(sequences = cten.coi.temp, names = cten.coi.id, nbchar = 10, file.out = "Ctenophryne_COI.fasta")
 
