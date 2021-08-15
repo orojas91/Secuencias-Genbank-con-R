@@ -9,7 +9,7 @@ library(seqinr)
 sessionInfo() #comprobar que los paquetes cargaron
 
 # definir carpeta de trabajo
-setwd("D:/D-OneDrive/OneDrive - PUCRS - BR/OneDrive/manuscrito/2021 Ctenophryne/210811")
+setwd("D:/tu carpeta de trabajo")
 dir() #revisar archivos en la carpeta de trabajo
 
 # importar archivos .csv
