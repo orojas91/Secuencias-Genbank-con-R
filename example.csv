@@ -1,22 +1,65 @@
-Genero;Especie;Museo;16S;COI;Localidad;Comentario;Referencia
-Ctenophryne;geayi;No.M16;AB611888;AB611885;no data;no voucher (pettrade);From Antarctica or Asia? New colonization scenario for Australian-New Guinean narrow mouth toads suggested from the findings on a mysterious genus Gastrophrynoides
-Ctenophryne;geayi;ROM40138;MH919970;MH940120;Peru: Madre de Dios, Tambopata;ninguno;Multiple connections between Amazonia and Atlantic Forest shaped the phylogenetic and morphological diversity of Chiasmocleis Mehely, 1904 (Anura: Microhylidae: Gastrophryninae)
-Ctenophryne;geayi;QCAZ17124 ;KC180028;MH940119;Ecuador: Alto Tambo, Esmeraladas;ninguno;Multiple connections between Amazonia and Atlantic Forest shaped the phylogenetic and morphological diversity of Chiasmocleis Mehely, 1904 (Anura: Microhylidae: Gastrophryninae)
-Ctenophryne;geayi;CI075;MN172511;NA;Peru: Los Amigos Biological Station, Provincia Manu, Madre de Dios, 12.56861 S 70.09917 W;;Thermal physiological traits in tropical lowland amphibians: Vulnerability to climate warming and cooling
-Ctenophryne;geayi;CTGA_N_5543;MG806090;NA;Brazil;;When the unknown lives next door: a study of central Amazonian anurofauna
-Ctenophryne;aequatorialis;WED53386, KU202919;AY326067;NA;"Ecuador: Loja; 3.7 km S Saraguro; 2800 m";12S, tRNA-Val, 16S;Novel relationships among hyloid frogs inferred from 12S and 16S mitochondrial DNA sequences
-Ctenophryne;geayi;TG241;KU495183;KU494390;Brazil: Mato Grosso, Paranaita, 9.671 S 56.482 W;;Meeting the challenge of DNA Barcoding amphibians from Neotropics: Polymerase chain reaction optimization and new COI primers
-Ctenophryne;geayi;MTR_ALCX46P28;KU495182;KU494389;Brazil: Amazonas, Novo Aripuana, Lago Cipotuba, Margem Direita Rio Aripuana, 5.785 S 60.221 W;;Meeting the challenge of DNA Barcoding amphibians from Neotropics: Polymerase chain reaction optimization and new COI primers
-Ctenophryne;geayi;MTR_ALCX182P34;KU495181;KU494388;Brazil: Amazonas, Rio Purus, Moiobamba, margem direita, Rio Purus;;Meeting the challenge of DNA Barcoding amphibians from Neotropics: Polymerase chain reaction optimization and new COI primers
-Ctenophryne;geayi;MPEG:25397;KM509124;KM509788;Brazil: Par, Rio Xingu, Faz. Caracol;;The impact of anchored phylogenomics and taxon sampling on phylogenetic inference in narrow-mouthed frogs (Anura, Microhylidae)
-Ctenophryne;aterrima;QCAZ17119;KM509123;KM509787;Ecuador: Esmeraldas, Alto Tambo;;The impact of anchored phylogenomics and taxon sampling on phylogenetic inference in narrow-mouthed frogs (Anura, Microhylidae)
-Ctenophryne;aequatorialis;KU:202911;KM509122;KM509786;Ecuador: Azuay, Cuenca;;The impact of anchored phylogenomics and taxon sampling on phylogenetic inference in narrow-mouthed frogs (Anura, Microhylidae)
-Ctenophryne;geayi;WED 56812;KC179998;NA;Peru: S slope Abra Barro Negro, Chachapoya, Amazonas;;Molecular phylogeny of microhylid frogs (Anura: Microhylidae) with emphasis on relationships among new world genera
-Ctenophryne;geayi;21bm;EU201103;NA;no data;;Underestimation of species richness in neotropical frogs revealed by mtDNA analyses
-Ctenophryne;aequatorialis;KU:202919;KC822479;NA;no data;12S, tRNA-Val, 16S;An adaptive radiation of frogs in a southeast asian island archipelago
-Ctenophryne;aterrima;KRL1597;FJ784569;FJ766756;Panama: Cocle, 8.67 N 80.59 W;;Epidemic disease decimates amphibian abundance, species diversity, and evolutionary history in the highlands of central Panama
-Ctenophryne;aterrima;KRL1598;FJ784570;NA;Parque Nacional G. D. Omar Torrijos H., El Cope, Corregimiento is Ola, Distrito La Pintada, Cocle Province, 800 meters elevation 8.667 N 80.592 W;;Epidemic disease decimates amphibian abundance, species diversity, and evolutionary history in the highlands of central Panama
-Ctenophryne;carpish;MTD45614;AM039634;NA;"Peru: Huánuco, Cordillera de Carpish (09º43'58,2""S, 76º06'41""W, 2750)";;Analysis of Andes frogs (Phrynopus, Leptodactylidae, Anura) phylogeny based on 12S and 16S mitochondrial rDNA sequences
-Dasypops;schirchi;CFBHT10899;KU495193;KU494400;Brazil: Espirito Santo, Linhares;;Meeting the challenge of DNA Barcoding amphibians from Neotropics: Polymerase chain reaction optimization and new COI primers
-Synapturanus;salseri;FieldNumber AF237;KM509207;KM509876;Brazil: Amazonas, Manaus;;The impact of anchored phylogenomics and taxon sampling on phylogenetic inference in narrow-mouthed frogs (Anura, Microhylidae)
-Chiasmocleis;shudikarensis;MPEG28328;KF621190;KF621242;Brazil: Pará, Estação Ecológica Grao Pará  (1.285278, -58.695833);;
+Seq_name;a16S;COI;BDNF;TYR
+Ct_aterrima_QCAZ17124;KC180028;NA;KC180160;NA
+C_alagoana_C2682;KC180026;NA;KC180160;KC180236
+C_alagoana_C2683;KC180030;NA;KC180159;KC180237
+C_albopunctata_JMP218;KC179990;NA;KC180149;KC180267
+C_albopunctata_CTMZ5489;MH919907;NA;MH935348;NA
+C_altomontana_MZUSP133641;KX809588;NA;KX809590;NA
+C_altomontana_MZUSP133640;KX809589;NA;KX809591;NA
+C_anatipes_QCAZ51041;MH919904;KF621208;NA;KF621261
+C_anatipes_QCAZ51042;MH919913;KF621209;NA;KF621262
+C_antenori_QCAZ55408;MH919926;NA;NA;NA
+C_antenori_QCAZ23824;MH919940;NA;MH935351;KC180286
+C_avilapiresae_MPEG22787;MH919850;KF621218;NA;KF621271
+C_avilapiresae_MPEG18571;MH919867;KF621214;NA;KF621267
+C_bassleri_MTR28402;KF621161;KF621221;NA;KF621279
+C_bassleri_MNCNADN27334;KF621164;KF621222;NA;NA
+C_capixaba_MZUSP147500-CTA1871;KM111823;NA;KM111914;NA
+C_capixaba_MZUSP147510-CTA1872;KM111824;NA;KM111915;NA
+C_carvalhoi_MNCNADN26570;MH919901;KF621223;MH935364;KF621282
+C_carvalhoi_MNCNADN26618;MH919944;NA;MH935365;MH935462
+C_centralis_CHUNB51830;MH919858;KF621203;NA;NA
+C_centralis_MPEG29414;MH919961;KF621204;KM509239;KF621257
+C_cordeiroi_MZUSP147496-CTA1935;KM111853;NA;KM111940;MH935467
+C_cordeiroi_MTR22122;MH921206;NA;KM111941;NA
+C_crucis_MTR16070;KM111861;NA;KM111948;NA
+C_crucis_MTR16087;MH919934;NA;MH935374;NA
+C_devriesi_MHNSM21540;MH919881;NA;MH935375;NA
+C_gnoma_CFBH15820;MH919890;NA;MH935376;MH935474
+C_haddadi_MNHN20110139;MH919888;KF621226;NA;KF621285
+C_haddadi_PG445;MH919925;KF621227;NA;NA
+C_hudsoni_INPA31276;MH919849;KF621228;NA;NA
+C_hudsoni_MPEG23206;MH919960;KF621230;NA;KF621286
+C_jimi_MTR12728;MH919880;NA;MH935383;NA
+C_jimi_MTR13197;MH919968;NA;MH935385;NA
+C_lacrimae_RN7004-CTRN174;KM111848;NA;KM111934;NA
+C_lacrimae_RN7005-CTRN175;KM111849;NA;KM111935;NA
+C_leucosticta_MTR7128-CTMZ6943;MH919956;NA;KM111951;NA
+C_leucosticta_MZUSP136059-CTMZ2497;KM111864;NA;KM111950;NA
+C_mantiqueira_UFMGt1810 ;KM111868;NA;KM111954;NA
+C_mantiqueira_UFMGt1815;KM111869;NA;KM111955;NA
+C_mehelyi_MAP681;MH919906;NA;MH935401;NA
+C_mehelyi_MAP680;MH919905;NA;MH935400;MH935485
+C_papachibe_MPEG27788;MH919851;NA;MH935402;NA
+C_papachibe_MPEG30684;MH919959;KF621237;NA;KF621291
+C_parkeri_MEPN14223;KY465740;KY465745;NA;NA
+C_parkeri_QCAZ41441;MH919912;KY465744;NA;NA
+C_quilombola_CFBH9082;KM111871;NA;KM111957;MH935487
+C_quilombola_LGA3267;KM111888;NA;KM111973;MH935489
+C_royi_KU215540;KC180059;NA;KC180172;KC180274
+C_royi_KU215542;MH919965;KF621238;MH935373;KF621292
+C_sapiranga_UFBA643-11863;MH004294;NA;NA;NA
+C_schubarti_MTR12094-CTMZ6906;KM111893;NA;KM111978;NA
+C_schubarti_MTR12266;KM111895;NA;KM111980;MH935496
+C_shudikarensis_MW5645;KY002064;NA;KY002065;NA
+C_shudikarensis_CTMZ06866;MH919976;MH940161;MH935409;MH935498
+C_supercilialba_MNCNADN63003;MH919917;NA;MH935415;MH935501
+C_supercilialba_MNCNADN63001;MH919918;NA;MH935414;MH935500
+C_tridactyla_MNCNADN46711;MH919929;KF621243;MH935419;MH935505
+C_tridactyla_MNCNADN46994;MH919947;KF621245;MH935370;MH935466
+C_ventrimaculata_MNCNADN46707;KF621196;KF621247;NA;NA
+C_ventrimaculata_MHNSM21539;MH919885;NA;MH935423;NA
+C_veracruz_CTMZ6923;KM111899;NA;KM111984;MH935508
+C_veracruz_CTMZ6924;KM111900;NA;KM111985;MH935509
+E_heliannae_MPEG29419;KF621199;KF621250;NA;KF621295
+H_boliviana_MPEG27797;KM509137;KF621252;KM509271;NA
